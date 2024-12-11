@@ -1,35 +1,35 @@
 <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 10vh;
-            margin: 0;
-            background-color: #f4f4f4;
-            
-        }
-        table {
-            border-collapse: collapse;
-            border: 2px solid #000;
-            margin: 30px ;
-        }
-        td {
-            width: 70px;
-            height: 70px;
-            text-align: center;
-            font-size: 24px;
-        }
-        .light {
-            background-color: wheat;
-        }
-        .dark {
-            background-color: green;
-        }
-        h1{
-            text-align: center;
-        }
-        a {
-            font-weight: bold;
-            text-decoration: none;
-        }
-    </style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 10vh;
+        margin: 0;
+        background-color: #f4f4f4;
+        
+    }
+    table {
+        border-collapse: collapse;
+        border: 2px solid #000;
+        margin: 30px ;
+    }
+    td {
+        width: 70px;
+        height: 70px;
+        text-align: center;
+        font-size: 24px;
+    }
+    .light {
+        background-color: white;
+    }
+    .dark {
+        background-color: green;
+    }
+    h1{
+        text-align: center;
+    }
+    a {
+        font-weight: bold;
+        text-decoration: none;
+    }
+</style>
